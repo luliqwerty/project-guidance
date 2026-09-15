@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+.npm/
+
+# Generated output (when users run the skill against a target project, output goes to <target>/docs/)
+# This directory only stores the skill itself, so we don't ignore much here.
